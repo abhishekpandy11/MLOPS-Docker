@@ -1,3 +1,2 @@
-Flask ==3.1.2
-werkzeubg==2.3.6
-what ==2.3.5
+Flask==3.0.3
+Werkzeug==3.0.2
